@@ -1,4 +1,4 @@
-#  printf
+#								  printf
 A simple printf function built by Chris Macharia  and Miriam Ngugi for Alx software Engineering School.
 
 # Welcome
@@ -48,8 +48,6 @@ Character: printf("%c", A); Output:: A
 String: printf("%s", This is a string.); Output: This is a string.
 
 Integer: printf("%i", 5); Output: 5
-
-Expletive: printf("%F", anything); Output: FUCK
 
 ## Authors
 
